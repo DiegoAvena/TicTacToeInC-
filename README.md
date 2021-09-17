@@ -5,4 +5,4 @@ An implementation of Tic Tac Toe with an unbeatable AI that uses the minmax algo
 
 [See it in action!](https://www.youtube.com/watch?v=ZvJK15RH2OE)
 
-#SETUP INFORMATION AND REFERENCES LIST COMING SOON
+# SETUP INFORMATION AND REFERENCES LIST COMING SOON
