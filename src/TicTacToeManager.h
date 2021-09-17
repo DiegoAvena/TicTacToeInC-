@@ -1,3 +1,10 @@
+/*
+
+Creator: Diego Avena
+Last Updated: 9/17/21
+
+*/
+
 #ifndef TIC_TAC_TOE_MANAGER_H
 #define TIC_TAC_TOE_MANAGER_H 
 
@@ -8,6 +15,13 @@
 
 #include <map>
 
+/*
+
+Contains all the functionality needed for an 
+implementation of TicTacToe, using OpenGL for 
+graphics rendering
+
+*/
 class TicTacToeManager : public BoardGameBase {
 
 public:

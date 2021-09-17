@@ -1,3 +1,10 @@
+/*
+
+Creator: Diego Avena
+Last Updated: 9/17/21
+
+*/
+
 #ifndef SQUARE_H
 #define SQUARE_H
 
@@ -11,6 +18,12 @@
 #include "../graphics/VertexArray.h"
 #include "../graphics/VertexBuffer.h"
 
+/*
+
+Contains everything needed to render a simple 
+square shape with a solid color
+
+*/
 class Square {
 
 private:

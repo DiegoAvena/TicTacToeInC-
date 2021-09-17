@@ -1,3 +1,10 @@
+/*
+
+Creator: Diego Avena
+Last Updated: 9/17/21
+
+*/
+
 #ifndef BOARD_GAME_H
 #define BOARD_GAME_H
 
@@ -9,6 +16,12 @@
 #include <cstdio>
 #include "shaderLoader/Shader.h"
 
+/*
+
+A base class for turn based games, such as Tic Tac Toe, 
+Chess, Checkers, etc.
+
+*/
 class BoardGameBase {
 
 public:

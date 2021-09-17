@@ -1,3 +1,10 @@
+/*
+
+Creator: Diego Avena
+Last Updated: 9/17/21
+
+*/
+
 #version 330 core
 
 out vec4 color;

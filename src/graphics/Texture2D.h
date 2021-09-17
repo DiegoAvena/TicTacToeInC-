@@ -1,3 +1,10 @@
+/*
+
+Creator: Diego Avena
+Last Updated: 9/17/21
+
+*/
+
 #ifndef TEXTURE_H
 #define TEXTURE_H
 
@@ -7,6 +14,12 @@
 
 #include "../stb_image.h"
 
+/*
+
+Contains the functionality needed to load up 
+textures for use with openGL.
+
+*/
 class Texture {
 
 private:

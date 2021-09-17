@@ -13,8 +13,15 @@
 #include <sstream>
 #include <cstdio>
 
-//#include <iostream>
+/*
 
+Contains everything needed to load up shaders for use 
+with OpenGL. The code for this class is heavily based on 
+the code given here:
+
+https://learnopengl.com/code_viewer_gh.php?code=includes/learnopengl/shader_s.h
+
+*/
 class Shader {
 
 public:

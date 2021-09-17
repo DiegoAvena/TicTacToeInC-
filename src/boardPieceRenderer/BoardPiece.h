@@ -1,3 +1,10 @@
+/*
+
+Creator: Diego Avena
+Last Updated: 9/17/21
+
+*/
+
 #ifndef BOARD_PIECE_H
 #define BOARD_PIECE_H
 
@@ -12,6 +19,12 @@
 #include "../graphics/VertexBuffer.h"
 #include "../graphics/Texture2D.h"
 
+/*
+
+Contains all the functionality needed to render a board piece on the 
+tic tac toe board, such as an X piece or an O piece
+
+*/
 class BoardPiece {
 
 private:
